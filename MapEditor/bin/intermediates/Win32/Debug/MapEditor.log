@@ -1,0 +1,20 @@
+﻿  Map.cpp
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\map.cpp(2): fatal error C1083: Cannot open include file: 'Fields/Field.h': No such file or directory
+  Main.cpp
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(12): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(17): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(22): error C2661: 'Map::Map': no overloaded function takes 3 arguments
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(23): error C2661: 'Map::Map': no overloaded function takes 3 arguments
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(82): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(87): warning C4129: ' ': unrecognized character escape sequence
+c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(89): error C2440: '=': cannot convert from 'Field' to 'int'
+  c:\users\adrian\source\repos\mapeditor\mapeditor\sources\main.cpp(89): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  Generating Code...
