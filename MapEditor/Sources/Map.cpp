@@ -1,5 +1,5 @@
 #include "Map.h"
-#include "Fields/Field.h"
+#include "Field.h"
 
 sf::Vector2i Map::mapDimensions;
 
